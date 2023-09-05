@@ -9,4 +9,6 @@ export const ehTriangulo = (A: number, B: number, C: number) => {
         return true;
     }
     return false;
+    
 }
+
